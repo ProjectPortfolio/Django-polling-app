@@ -18,5 +18,4 @@ class Choice(models.Model):
 
 
 
-
     
